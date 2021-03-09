@@ -1,0 +1,21 @@
+/* override css styles of the main theme here */
+
+a {
+    color: rgb(114, 173, 164);
+  }
+
+  a:hover {
+    color: rgb(214, 166, 166);
+  }
+
+
+  section.main .content .markdown h4, section.main .content .markdown h5, section.main .content .markdown h6 {
+    /* font-size: 1rem; */
+    margin-bottom: -0.0rem;
+    /* letter-spacing: none; */
+}
+
+section.main .content .markdown h2 {
+  font-size: 1.4rem;
+  margin-bottom: 1.25rem;
+}
