@@ -25,9 +25,10 @@ Experience since Apr 2021 &amp;gt; Research Scientist Bethge Lab, Tuebingen AI C
       
       <guid>https://wbarfuss.github.io/events/</guid>
       <description>2021 | 2020 | 2019 | 2018 | 2017 | 2016  | 2015  | 2014 
-Upcoming Learning, Evolution and Games (LEG) Virtual Conference, Sep 1-2, 2021 Algorithmic collusion in multi-agent systems with Janusz Meylahn (Virtual Talk)
-Past Events 2021 Earth System Analysis Seminar, Potsdam Insitute for Climate Impact Research, Potsdam, Germany, Apr 28, 2021 Collective learning for a sustainable future (Virtual Talk)
-Cyber Valley Evening Colloquium on Autonomous Systems, University of Stuttgart, Stuttgart, Germany, Apr 27, 2021 Multi-agent Replicator Reinforcement Learning Dynamics (Virtual Talk)  abstract</description>
+Upcoming Petrov Lab, University of Konstanz, Oct 6-7, 2021 Collective Learning Dynamics (Talk)
+Fu Lab, Dartmouth College, Hanover, United States, Oct 14, 2021 Evolutionary Multi-Agent Reinforcement Learning Dynamics (Virtual Talk)
+Gymnasium Rutesheim, Rutesheim, Germany, Oct 22, 2021 Introduction to cooperative AI (Lecture)
+Dutch Institute for Emergent Phenomena, Amsterdam, Netherlands, Oct 28, 2021 Collective Learning Dynamics (Virtual Talk)</description>
     </item>
     
     <item>
@@ -37,7 +38,8 @@ Cyber Valley Evening Colloquium on Autonomous Systems, University of Stuttgart, 
       
       <guid>https://wbarfuss.github.io/publications/</guid>
       <description>2021 | 2020 | 2019 | 2018 | 2017 | 2016 
-In review Taxonomies for structuring models for World-Earth system analysis of the Anthropocene: subsystems, their interactions and social-ecological feedback loops Donges JF, Lucht W, Cornell SE, He	itzig J, Barfuss W, Lade SJ, Schlüter M (2018)
+Preprints Evolutionary Reinforcement Learning Dynamics with Irreducible Environmental Uncertainty Barfuss W, Mann RP (in review)
+ preprint Taxonomies for structuring models for World-Earth system analysis of the Anthropocene: subsystems, their interactions and social-ecological feedback loops Donges JF, Lucht W, Cornell SE, Heitzig J, Barfuss W, Lade SJ, Schlüter M (in press)
 Earth System Dynamics Discussions
  doi Peer-reviewed 2021 Dynamical systems as a level of cognitive analysis of multi-agent learning - Algorithmic foundations of temporal-difference learning dynamics  Barfuss W (2021) Neural Computing &amp;amp; Applications  doi |  code |  zenodo</description>
     </item>
