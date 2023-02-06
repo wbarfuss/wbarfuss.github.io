@@ -2,46 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wolfram Barfuss</title>
-    <link>https://wbarfuss.github.io/</link>
+    <link>/</link>
     <description>Recent content on Wolfram Barfuss</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://wbarfuss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022 W Barfuss</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Curriculum Vitae</title>
-      <link>https://wbarfuss.github.io/cv/</link>
+      <title>About</title>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wbarfuss.github.io/cv/</guid>
-      <description>Education Oct 2015 - Jul 2019 &amp;gt; Ph.D. in theoretical physics (summa cum laude) Potsdam Institute for Climate Impact Research, Germany
-Humboldt-University Berlin, Germany Sep 2013 - May 2015 &amp;gt; M.Sc. in physics (honors) FAU Erlangen-Nuremberg, Germany
-University College London, United Kingdom Oct 2010 - Sep 2013 &amp;gt; B.Sc. in physics FAU Erlangen-Nuremberg, Germany
-Experience since Apr 2021 &amp;gt; Research Scientist Bethge Lab, Tuebingen AI Center, University of Tuebingen, Germany</description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>https://wbarfuss.github.io/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wbarfuss.github.io/events/</guid>
-      <description>2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016  | 2015  | 2014 
-Upcoming Potsdam Institute for Climate Impact Research, Potsdam, GER, Dec 8-9, 2022
-Past Events 2022 Machine Learning Group, Université Libre de Bruxelles, Brussels, BE, Oct 24-28, 2022 Collective Learning Dynamics (Talk)
-Max-Planck-Institute for Evolutionary Biology, Plön, GER, Sep 27-30, 2022 Learning to cooperate via environmental uncertainty and intrinsic fluctuations (Talk)</description>
+      <guid>/about/</guid>
+      <description>Hi.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://wbarfuss.github.io/publications/</link>
+      <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wbarfuss.github.io/publications/</guid>
-      <description>2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 
-Preprints Intrinsic fluctuations of reinforcement learning promote cooperation  Barfuss W, Meylahn J (in review)
- preprint
-Conceptualizing World-Earth System resilience: Exploring transformation pathways towards a safe and just operating space for humanity  Anderies JM, Barfuss W, Donges JF, Fetzer I, Heitzig J, Rockström J (in review)
- preprint
-Peer-reviewed 2022 Modeling the effects of environmental and perceptual uncertainty using deterministic reinforcement learning dynamics with partial observability  Barfuss W, Mann RP (2022)</description>
+      <guid>/publications/</guid>
+      <description>Preprints Conceptualizing World-Earth System resilience: Exploring transformation pathways towards a safe and just operating space for humanity by Anderies JM, Barfuss W, Donges JF, Fetzer I, Heitzig J, Rockström J in review preprint Peer-reviewed 2023 We show that intrinsic stochastic fluctuations make classical temporal-difference reinforcement learning with 𝜖-greedy strategies highly cooperative.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/</guid>
+      <description>Selected talks Non-linear dynamics of multi-agent reinforcement learning in partially observable environments at the Adaptive and Learning Agents Workshop at AAMAS, May 9-20, 2022 and based on the paper Modeling the effects of environmental and perceptual uncertainty using deterministic reinforcement learning dynamics with partial observability by Barfuss W &amp;amp; Mann RP in Physical Review E 105, 3, 034409 (2022)</description>
     </item>
     
   </channel>
