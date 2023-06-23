@@ -4,13 +4,42 @@
   
     
       <url>
-            <loc>/</loc>
+            <loc>/news/</loc>
+            <lastmod>2023-06-21T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/about/</loc>
+            <loc>/</loc>
+            <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/team/</loc>
+            <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/team/wolf/</loc>
+            <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/team/clemence/</loc>
+            <lastmod>1000-01-01T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/contact/</loc>
           </url>
     
   
@@ -22,7 +51,25 @@
   
     
       <url>
+            <loc>/join/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>/publications/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/research/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/about/</loc>
           </url>
     
   

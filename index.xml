@@ -1,12 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wolfram Barfuss</title>
+    <title>BarfussLab</title>
     <link>/</link>
-    <description>Recent content on Wolfram Barfuss</description>
+    <description>Recent content on BarfussLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 W Barfuss</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2022 W Barfuss</copyright>
+    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/news/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/</guid>
+      <description>News Jun 2023 - 🎫 Wolf will speak at the Studienwoche Internationale Arbeitsgemeinschaft Kommunikation &amp;amp; Medien in July in Passau, Germany Jun 2023 - 👤 Clémence is joining the lab as a Ph.</description>
+    </item>
+    
+    <item>
+      <title>Wolfram Barfuss</title>
+      <link>/team/wolf/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/team/wolf/</guid>
+      <description>Argelander Professor, University of Bonn</description>
+    </item>
+    
+    <item>
+      <title>Clémence Bergerot</title>
+      <link>/team/clemence/</link>
+      <pubDate>Wed, 01 Jan 1000 00:00:00 +0000</pubDate>
+      
+      <guid>/team/clemence/</guid>
+      <description>Joint PhD Student with the &lt;a
+  href=&#34;http://lab.romanczuk.de/&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;Romanczuk Lab&lt;/a&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Contact We are based at the Center for Development Research (ZEF), University of Bonn, Germany.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/events/</guid>
+      <description>Events Upcoming events Cooperative AI Retreat, London, UK, Jul 13-16, 2023 [Wolf]</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/join/</guid>
+      <description>Joining the lab Doing science together is more fun, motivating, and effective than working alone.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Publications Preprints Conceptualizing World-Earth System resilience: Exploring transformation pathways towards a safe and just operating space for humanity by Anderies JM, Barfuss W, Donges JF, Fetzer I, Heitzig J, Rockström J in review preprint Peer-reviewed 2023 We provide multi-disciplinary perspectives on adaptivity in dynamic systems.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Research We reshape human-environment modeling to identify critical leverage points for sustainability transitions.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>/about/</link>
@@ -14,24 +91,6 @@
       
       <guid>/about/</guid>
       <description>Hi.</description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/events/</guid>
-      <description>Upcoming events Past events 2023 Nonlinear Data Analysis and Modeling: Advances, Applications, Perspectives, Potsdam, DE, Mar 15-17, 2023 Reshaping human-environment modeling (Talk)</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/</guid>
-      <description>Preprints Conceptualizing World-Earth System resilience: Exploring transformation pathways towards a safe and just operating space for humanity by Anderies JM, Barfuss W, Donges JF, Fetzer I, Heitzig J, Rockström J in review preprint Peer-reviewed 2023 We provide multi-disciplinary perspectives on adaptivity in dynamic systems.</description>
     </item>
     
   </channel>

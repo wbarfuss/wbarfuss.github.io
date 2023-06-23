@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BarfussLab</title>
+    <link>/team/</link>
+    <description>Recent content on BarfussLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022 W Barfuss</copyright>
+    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wolfram Barfuss</title>
+      <link>/team/wolf/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/team/wolf/</guid>
+      <description>Argelander Professor, University of Bonn</description>
+    </item>
+    
+    <item>
+      <title>Clémence Bergerot</title>
+      <link>/team/clemence/</link>
+      <pubDate>Wed, 01 Jan 1000 00:00:00 +0000</pubDate>
+      
+      <guid>/team/clemence/</guid>
+      <description>Joint PhD Student with the &lt;a
+  href=&#34;http://lab.romanczuk.de/&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;Romanczuk Lab&lt;/a&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
