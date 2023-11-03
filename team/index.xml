@@ -23,11 +23,17 @@
       <pubDate>Wed, 01 Jan 1000 00:00:00 +0000</pubDate>
       
       <guid>/team/clemence/</guid>
-      <description>Joint PhD Student with the &lt;a
-  href=&#34;http://lab.romanczuk.de/&#34;
-  
-  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
-&gt;Romanczuk Lab&lt;/a&gt;</description>
+      <description>Joint PhD Student with the 
+&lt;a href=&#34;http://lab.romanczuk.de/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Romanczuk Lab&lt;/a&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paula Tittel</title>
+      <link>/team/paula/</link>
+      <pubDate>Wed, 01 Jan 1000 00:00:00 +0000</pubDate>
+      
+      <guid>/team/paula/</guid>
+      <description>Visiting student</description>
     </item>
     
   </channel>
