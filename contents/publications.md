@@ -7,6 +7,9 @@
 [Ecologically-mediated collective action in commons with tipping elements](https://osf.io/7pcnm/)
 *by* **Barfuss W**, Donges JF, Bethge M
 
+[Independent or interdependent? Migration timing dynamics and their association with external stressors](https://www.researchsquare.com/article/rs-4752717/v1)
+*by* Oh WS, Barfuss W, Donges J, Levin S, Rubenstein D 
+
 **Social norms and groups structure safe operating spaces in renewable resource use in a social-ecological multi-layer network model** *by*
 Bechthold M, **Barfuss W**, Butz A, Breier J, Constantino SM, Heitzig J, Schwarz L, Vardag SN, Donges JF
 
