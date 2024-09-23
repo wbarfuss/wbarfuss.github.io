@@ -8,9 +8,9 @@
 *by* **Barfuss W**, Donges JF, Bethge M
 
 [**Independent or interdependent? Migration timing dynamics and their association with external stressors**](https://www.researchsquare.com/article/rs-4752717/v1)
-*by* Oh WS, Barfuss W, Donges J, Levin S, Rubenstein D 
+*by* Oh WS, **Barfuss W**, Donges J, Levin S, Rubenstein D 
 
-**Social norms and groups structure safe operating spaces in renewable resource use in a social-ecological multi-layer network model** *by*
+[**Social norms and groups structure safe operating spaces in renewable resource use in a social-ecological multi-layer network model**](https://doi.org/10.5194/egusphere-2024-2924) *by*
 Bechthold M, **Barfuss W**, Butz A, Breier J, Constantino SM, Heitzig J, Schwarz L, Vardag SN, Donges JF
 
 
@@ -80,7 +80,7 @@ Bechthold M, **Barfuss W**, Butz A, Breier J, Constantino SM, Heitzig J, Schwarz
 
 [**Deep reinforcement learning in World-Earth system models to discover sustainable management strategies**](https://aip.scitation.org/doi/10.1063/1.5124673) *by* Strnad FM, **Barfuss W**, Donges JF,  Heitzig J *in* Chaos 29, 123122 (2019) | [doi](https://doi.org/10.1063/1.5124673) | [preprint](https://arxiv.org/abs/1908.05567) | [code](https://github.com/fstrnad/pyDRLinWESM)
 
-[**The physics of governance networks: critical transitions in contagion dynamics on multilayer adaptive networks with application to the sustainable use of renewable resources**](https://link.springer.com/article/10.1140/epjst/e2019-900120-4) *by* Geier F, **Barfuss W,** Wiedermann M, Kurths J, Donges JF *in* The European Physical Journal Special Topics, 228 11, 2357-2369 (2019) | [doi](https://doi.org/10.1140/epjst/e2019-900120-4) | [preprint](https://arxiv.org/abs/1906.08679)
+[**The physics of governance networks: critical transitions in contagion dynamics on multilayer adaptive networks with application to the sustainable use of renewable resources**](https://link.springer.com/article/10.1140/epjst/e2019-900120-4) *by* Geier F, **Barfuss W**, Wiedermann M, Kurths J, Donges JF *in* The European Physical Journal Special Topics, 228 11, 2357-2369 (2019) | [doi](https://doi.org/10.1140/epjst/e2019-900120-4) | [preprint](https://arxiv.org/abs/1906.08679)
 
 
 [**Geometric effects in random assemblies of ellipses**](https://pubs.rsc.org/en/content/articlelanding/2019/SM/C9SM01067J) *by* Lovrić J, Kaliman S, **Barfuss W**, Schröder-Turk GE, Smith AS *in* Soft Matter, 15, 8566-8577 (2019) | [dio](https://doi.org/10.1039/C9SM01067J) | [preprint](https://arxiv.org/abs/1905.11777)
