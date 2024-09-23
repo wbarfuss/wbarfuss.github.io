@@ -50,5 +50,5 @@ Member of the
 
 <div style="height: 100px;"></div> <!-- 20px of vertical space -->
 
-<div style="height: 100px;"></div> <!-- 20px of vertical space -->
+<!-- <div style="height: 100px;"></div> 20px of vertical space -->
 
