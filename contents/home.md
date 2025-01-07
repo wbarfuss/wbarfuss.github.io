@@ -36,6 +36,7 @@ Argelander (Tenure-Track) Assistant Professor of the [Transdisciplinary Research
 the [Center for Development Research (ZEF)](https://www.zef.de/about-zef/divisions-groups/model/outline.html), University of Bonn
 
 Member of the 
+* [AEI Faculty](https://www.aei.uni-bonn.de/en/home), University of Bonn
 * TRAs [Modeling](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-1-modelling/home/) and [Individual and Societies](), University of Bonn
 * [Cluster of Excellence PhenoRob](https://www.phenorob.de), University of Bonn
 * [Center for Earth System Observation and Computational Analysis (CESOC)](https://cesoc.net), Bonn-Cologne-Juelich
