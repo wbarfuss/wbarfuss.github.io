@@ -26,13 +26,10 @@
 
 
 
-
-
-
 <!-- [Institute for Food and Resource Economics](https://www.ilr1.uni-bonn.de/en), Uni Bonn -->
 
 
-Argelander (Tenure-Track) Assistant Professor of the [Transdisciplinary Research Area (TRA) Sustainable Futures](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/tra-sustainable-futures?set_language=en) at 
+<!-- Argelander (Tenure-Track) Assistant Professor of the [Transdisciplinary Research Area (TRA) Sustainable Futures](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/tra-sustainable-futures?set_language=en) at 
 the [Center for Development Research (ZEF)](https://www.zef.de/about-zef/divisions-groups/model/outline.html), University of Bonn
 
 Member of the 
@@ -41,12 +38,13 @@ Member of the
 * [Cluster of Excellence PhenoRob](https://www.phenorob.de), University of Bonn
 * [Center for Earth System Observation and Computational Analysis (CESOC)](https://cesoc.net), Bonn-Cologne-Juelich
 * [Earth Resilience Science Unit](https://www.pik-potsdam.de/en/institute/futurelabs/earthresilience), Potsdam Institute for Climate Impact Research
-* [Earth Resilience and Sustainability Initiative](http://earthresiliencesustainability.org/), Princeton-Stockholm-Potsdam
+* [Earth Resilience and Sustainability Initiative](http://earthresiliencesustainability.org/), Princeton-Stockholm-Potsdam -->
 
 
 > My research centers around the question, *Are we smart enough for the good life*? To answer it, my team and I develop formal models of collective learning to better understand how in complex environments, individual decisions become collective action for a sustainable future. <br>[Read more](https://barfusslab.github.io/mission.html) 
 <blockquote>
 </blockquote>
+
 
 
 <div style="height: 100px;"></div> <!-- 20px of vertical space -->
