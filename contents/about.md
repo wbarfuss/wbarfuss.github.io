@@ -1,5 +1,3 @@
-<div style="height: 0px;"></div> <!-- 20px of vertical space -->
-
 <table style="width:100%">
     <tr>
         </td>
@@ -9,6 +7,11 @@
         <td>
             <strong>Wolf</strong>ram <strong>Barfuss</strong><br> 
             <a href="https://barfusslab.github.io">Argelander-Professor of Integrated Systems Modeling for Sustainability Transitions</a><br>
+            <small>
+            <a href=https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/tra-sustainable-futures?set_language=en">Transdisciplinary Research Area (TRA) Sustainable Futures</a><br> 
+             <a href="https://www.zef.de/about-zef/divisions-groups/model/outline.html">Center for Development Research (ZEF)</a><br>
+             <a href="https://www.ilr1.uni-bonn.de/en">Institute for Food and Resource Economics (ILR)</a>
+            </small><br>
             University of Bonn, Germany<br>
             <small>
             <!-- <a href="https://wbarfuss.github.io"><i class="bi bi-link-45deg"></i></a>  -->
@@ -21,32 +24,10 @@
             </small>
     </tr>
 </table>
-    
-<div style="height: 60px;"></div> <!-- 20px of vertical space -->
 
-
-
-<!-- [Institute for Food and Resource Economics](https://www.ilr1.uni-bonn.de/en), Uni Bonn -->
-
-
-<!-- Argelander (Tenure-Track) Assistant Professor of the [Transdisciplinary Research Area (TRA) Sustainable Futures](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/tra-sustainable-futures?set_language=en) at 
-the [Center for Development Research (ZEF)](https://www.zef.de/about-zef/divisions-groups/model/outline.html), University of Bonn
-
-Member of the 
-* [AEI Faculty](https://www.aei.uni-bonn.de/en/home), University of Bonn
-* TRAs [Modeling](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-1-modelling/home/) and [Individual and Societies](), University of Bonn
-* [Cluster of Excellence PhenoRob](https://www.phenorob.de), University of Bonn
-* [Center for Earth System Observation and Computational Analysis (CESOC)](https://cesoc.net), Bonn-Cologne-Juelich
-* [Earth Resilience Science Unit](https://www.pik-potsdam.de/en/institute/futurelabs/earthresilience), Potsdam Institute for Climate Impact Research
-* [Earth Resilience and Sustainability Initiative](http://earthresiliencesustainability.org/), Princeton-Stockholm-Potsdam -->
+<div style="height: 40px;"></div> <!-- 20px of vertical space -->
 
 
 > My research centers around the question, *Are we smart enough for the good life*? To answer it, my team and I develop formal models of collective learning to better understand how in complex environments, individual decisions become collective action for a sustainable future. <br>[Read more](https://barfusslab.github.io/mission.html) 
 
-
-
-
-<div style="height: 100px;"></div> <!-- 20px of vertical space -->
-
-<!-- <div style="height: 100px;"></div> 20px of vertical space -->
 
