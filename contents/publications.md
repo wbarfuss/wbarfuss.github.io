@@ -3,7 +3,10 @@
 
 ### Working papers and preprints
 
-[**A risk assessment framework for interacting tipping elements**](https://doi.org/10.5194/egusphere-2025-4077) *by* Bara J, Wunderling N, and **Barfuss, W** [[preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4077/egusphere-2025-4077.pdf)]
+[**Deterministic dynamics of distributional multi-agent reinforcement learning**](https://doi.org/10.64898/2025.12.22.696014) *by* 
+Bergerot C, Romanczuk P, **Barfuss W** \[[preprint](https://doi.org/10.64898/2025.12.22.696014)\]
+
+[**A risk assessment framework for interacting tipping elements**](https://doi.org/10.5194/egusphere-2025-4077) *by* Bara J, Wunderling N, and **Barfuss W** \[[preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4077/egusphere-2025-4077.pdf)\]
 
 [**Ecologically-mediated collective action in commons with tipping elements**](https://osf.io/7pcnm/)
 *by* **Barfuss W**, Donges JF, Bethge M, Levin S
