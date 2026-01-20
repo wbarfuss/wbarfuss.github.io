@@ -8,6 +8,8 @@ Bergerot C, Romanczuk P, **Barfuss W** \[[preprint](https://doi.org/10.64898/202
 
 [**A risk assessment framework for interacting tipping elements**](https://doi.org/10.5194/egusphere-2025-4077) *by* Bara J, Wunderling N, and **Barfuss W** \[[preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4077/egusphere-2025-4077.pdf)\]
 
+[**Dynamics of Multi-Agent Actor-Critic Learning in Stochastic Games: from Multistability and Chaos to Stable Cooperation**](https://arxiv.org/abs/2601.07142) *by* Geng Y, **Barfuss W**, Fu F, Chen X \[[preprint](https://arxiv.org/abs/2601.07142)\]
+
 [**Ecologically-mediated collective action in commons with tipping elements**](https://osf.io/7pcnm/)
 *by* **Barfuss W**, Donges JF, Bethge M, Levin S
 
