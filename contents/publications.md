@@ -16,14 +16,17 @@ Bergerot C, Romanczuk P, **Barfuss W** \[[preprint](https://doi.org/10.64898/202
 [**Independent or interdependent? Migration timing dynamics and their association with external stressors**](https://www.researchsquare.com/article/rs-4752717/v1)
 *by* Oh WS, **Barfuss W**, Donges J, Levin S, Rubenstein D 
 
-
 <div style="height: 40px;"></div>
 
 ### Published Publications
 
+[**Emergent Fast-Slow Dynamics in Multi-Agent Q-Learning for Networked Stochastic Games**](https://doi.org/10.1609/aaai.v40i35.40186) *by* Geng Y, **Barfuss W**, Chen X *in* Proceedings of the AAAI Conference on Artificial Intelligence, 40(35), 29450–29458 (2026) \[[doi](https://doi.org/10.1609/aaai.v40i35.40186)\]
+
+[**AI for a Planet Under Pressure**](https://arxiv.org/abs/2510.24373) *by* Galaz V, Schewenius M, Donges JF, Fetzer I, Zhivkoplias E, **Barfuss W**, Delannoy L, Wang-Erlandsson L, Gelbrecht M, Heitzig J, Hentati-Sundberg J, Kennedy C, Knecht N, Lotcheris R, Mahecha M, Merrie A, Montero D, McPhearson T, Mustafa A, Nyström M, Purves D, Rocha JC, Ryo M, van der Salm C, Segun ST, Stephenson AB, Tellman E, Tobar F, Vadrot A | *Non-peer-reviewed Report* (2025)
+
 [**Social norms and groups structure safe operating spaces in renewable resource use in a social–ecological multi-layer network model**](https://doi.org/10.5194/esd-16-1365-2025) *by* Bechthold M, **Barfuss W**, Butz A, Breier J, Constantino SM, Heitzig J, Schwarz L, Vardag SN, Donges JF *in* Earth System Dynamics 16, 1365–1390 (2025) [[doi](https://doi.org/10.5194/esd-16-1365-2025)] [[discussion paper](https://doi.org/10.5194/egusphere-2024-2924)] 
 
-[**Collective cooperative intelligence**](https://www.pnas.org/doi/10.1073/pnas.2319948121) *by* **Barfuss W**, Flack J, Gokhale CS, Hammond L, Hilbe C, Hughes E, Leibo JZ, Lenearts T, Leonard N, Levin S, Madhushani U, McAvoy A, Meylahn JM, Santos FP *in* Proc. Natl. Acad. Sci. U.S.A., 122(25) e2319948121 (2025) [[doi](https://doi.org/10.1073/pnas.2319948121)] [[code](https://github.com/wbarfuss/collective-cooperative-intelligence/tree/main)] [[zenodo](https://doi.org/10.5281/zenodo.12514230)] [[news item UB](https://www.uni-bonn.de/de/neues/108-2025)] [[news item UW](https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/neuer-weg-zusammenarbeit-verstehen/)]
+[**Collective cooperative intelligence**](https://www.pnas.org/doi/10.1073/pnas.2319948121) *by* **Barfuss W**, Flack J, Gokhale CS, Hammond L, Hilbe C, Hughes E, Leibo JZ, Lenearts T, Leonard N, Levin S, Madhushani U, McAvoy A, Meylahn JM, Santos FP *in* Proc. Natl. Acad. Sci. U.S.A., 122(25) e2319948121 (2025) \[[doi](https://doi.org/10.1073/pnas.2319948121)\] \[[code](https://github.com/wbarfuss/collective-cooperative-intelligence/tree/main)] \[[zenodo](https://doi.org/10.5281/zenodo.12514230)\] \[[news item UB](https://www.uni-bonn.de/de/neues/108-2025)\] \[[news item UW](https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/neuer-weg-zusammenarbeit-verstehen/)\]
 
 [**Unilateral incentive alignment in two-player stochastic games**](https://www.pnas.org/doi/10.1073/pnas.2319927121) *by* McAvoy A, Madhushani U, Hilbe C, Chatterjee K, **Barfuss W**, Su Q, Leonard NE, Plotkin JB *in* Proc. Natl. Acad. Sci. U.S.A., 122(25) e2319927121 (2025) [[doi](https://doi.org/10.1073/pnas.2319927121)]
 
@@ -45,7 +48,7 @@ Bergerot C, Romanczuk P, **Barfuss W** \[[preprint](https://doi.org/10.64898/202
 
 [**Stewardship of global collective behavior**](https://www.pnas.org/content/118/27/e2025764118) *by* Bak-Coleman J, Alfano M, **Barfuss W**, Bergstrom C, Centeno MA, Couzin ID, Donges JF, Galesic M, Gersick AS, Jacquet J, Kao A, Moran RE, Romanczuk P, Rubenstein DI, Tombak KJ, Van Bavel JJ, Weber EU *in* Proc. Natl. Acad. Sci. U.S.A., 118(27), 2025764118 (2021) [[doi](https://doi.org/10.1073/pnas.2025764118)] [[interview](https://perspective-daily.de/article/1773/quhPydGw)]
 
-[**Towards a unified treatment of the dynamics of collective learning**](https://drive.google.com/a/google.com/file/d/1ZewiyY7KtcPuNQ0LtZyB_31IdkMr8Oxj/view?usp=sharing) *by* **Barfuss W** *in* AAAI Spring Symposium [Challenges and Opportunities for Multi-Agent Reinforcement Learning (COMARL)](https://sites.google.com/view/comarl-aaai-2021/home) (2021) [[slides](../static/assets/pdfs/Barfuss20210322_COMARL.pdf)]
+[**Towards a unified treatment of the dynamics of collective learning**](https://drive.google.com/a/google.com/file/d/1ZewiyY7KtcPuNQ0LtZyB_31IdkMr8Oxj/view?usp=sharing) *by* **Barfuss W** *in* AAAI Spring Symposium [Challenges and Opportunities for Multi-Agent Reinforcement Learning (COMARL)](https://sites.google.com/view/comarl-aaai-2021/home) (2021) [[slides](3-Engagements/4-4⚙️🖥️-Website/wbarfuss.github.io/static/assets/pdfs/Barfuss20210322_COMARL.pdf)]
 
 [**Caring for the future can turn tragedy into comedy for long-term collective action under risk of collapse**](https://www.pnas.org/content/117/23/12915) *by* **Barfuss W**, Donges JF, Vasconcelos VV, Kurths J, Levin SA *in* Proc. Natl. Acad. Sci. U.S.A., 117(23), 12915-12922 (2020) [[doi](https://doi.org/10.1073/pnas.1916545117)] [[code](https://github.com/wbarfuss/EcoPG)] [[zenodo](https://doi.org/10.5281/zenodo.3751564)]
  
