@@ -6,25 +6,28 @@
 [**Deterministic dynamics of distributional multi-agent reinforcement learning**](https://doi.org/10.64898/2025.12.22.696014) *by* 
 Bergerot C, Romanczuk P, **Barfuss W** \[[preprint](https://doi.org/10.64898/2025.12.22.696014)\]
 
-[**A risk assessment framework for interacting tipping elements**](https://doi.org/10.5194/egusphere-2025-4077) *by* Bara J, Wunderling N, and **Barfuss W** \[[preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4077/egusphere-2025-4077.pdf)\]
-
 [**Dynamics of Multi-Agent Actor-Critic Learning in Stochastic Games: from Multistability and Chaos to Stable Cooperation**](https://arxiv.org/abs/2601.07142) *by* Geng Y, **Barfuss W**, Fu F, Chen X \[[preprint](https://arxiv.org/abs/2601.07142)\]
 
-[**Ecologically-mediated collective action in commons with tipping elements**](https://osf.io/7pcnm/)
-*by* **Barfuss W**, Donges JF, Bethge M, Levin S
-
-[**Independent or interdependent? Migration timing dynamics and their association with external stressors**](https://www.researchsquare.com/article/rs-4752717/v1)
-*by* Oh WS, **Barfuss W**, Donges J, Levin S, Rubenstein D 
+<!-- [**Independent or interdependent? Migration timing dynamics and their association with external stressors**](https://www.researchsquare.com/article/rs-4752717/v1)
+*by* Oh WS, **Barfuss W**, Donges J, Levin S, Rubenstein D  -->
 
 <div style="height: 40px;"></div>
 
 ### Published Publications
 
+[**Learning Together, Better, Faster - On the Timescales of Learning Social Learning Strategies**](https://github.com/wbarfuss/Learning-Together-Better-Faster/blob/main/__MS-Output/Article.pdf)
+*by* **Barfuss W**, Tittel P, Mann RP *accepted in* Proc. R. Soc. A (2026) \[[code](https://github.com/wbarfuss/Learning-Together-Better-Faster)\] \[[zenodo](https://doi.org/10.5281/zenodo.20282129)\]
+
+[**Natural tipping dynamics as catalysts of human cooperation**](https://doi.org/10.1016/j.ecolecon.2026.109082)
+*by* **Barfuss W**, Donges JF, Bethge M, Levin S *in* Ecological Economics 248, 109082 (2026) \[[doi](https://doi.org/10.1016/j.ecolecon.2026.109082)\] \[[preprint](https://osf.io/7pcnm/)\] \[[code](https://github.com/wbarfuss/Tipping-Catalysts-Cooperation)\] \[[zenodo](https://doi.org/10.5281/zenodo.20276553)\]
+
+[**A risk assessment framework for interacting tipping elements**](https://doi.org/10.5194/esd-17-333-2026) *by* Bara J, Wunderling N, and **Barfuss W** *in* Earth System Dynamics 17(2), 333–352 (2026) \[[doi](https://doi.org/10.5194/esd-17-333-2026)\] \[[preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4077/egusphere-2025-4077.pdf)\]
+
 [**Emergent Fast-Slow Dynamics in Multi-Agent Q-Learning for Networked Stochastic Games**](https://doi.org/10.1609/aaai.v40i35.40186) *by* Geng Y, **Barfuss W**, Chen X *in* Proceedings of the AAAI Conference on Artificial Intelligence, 40(35), 29450–29458 (2026) \[[doi](https://doi.org/10.1609/aaai.v40i35.40186)\]
 
 [**AI for a Planet Under Pressure**](https://arxiv.org/abs/2510.24373) *by* Galaz V, Schewenius M, Donges JF, Fetzer I, Zhivkoplias E, **Barfuss W**, Delannoy L, Wang-Erlandsson L, Gelbrecht M, Heitzig J, Hentati-Sundberg J, Kennedy C, Knecht N, Lotcheris R, Mahecha M, Merrie A, Montero D, McPhearson T, Mustafa A, Nyström M, Purves D, Rocha JC, Ryo M, van der Salm C, Segun ST, Stephenson AB, Tellman E, Tobar F, Vadrot A | *Non-peer-reviewed Report* (2025)
 
-[**Social norms and groups structure safe operating spaces in renewable resource use in a social–ecological multi-layer network model**](https://doi.org/10.5194/esd-16-1365-2025) *by* Bechthold M, **Barfuss W**, Butz A, Breier J, Constantino SM, Heitzig J, Schwarz L, Vardag SN, Donges JF *in* Earth System Dynamics 16, 1365–1390 (2025) [[doi](https://doi.org/10.5194/esd-16-1365-2025)] [[discussion paper](https://doi.org/10.5194/egusphere-2024-2924)] 
+[**Social norms and groups structure safe operating spaces in renewable resource use in a social–ecological multi-layer network model**](https://doi.org/10.5194/esd-16-1365-2025) *by* Bechthold M, **Barfuss W**, Butz A, Breier J, Constantino SM, Heitzig J, Schwarz L, Vardag SN, Donges JF *in* Earth System Dynamics 16(2), 1365–1390 (2025) [[doi](https://doi.org/10.5194/esd-16-1365-2025)] [[discussion paper](https://doi.org/10.5194/egusphere-2024-2924)] 
 
 [**Collective cooperative intelligence**](https://www.pnas.org/doi/10.1073/pnas.2319948121) *by* **Barfuss W**, Flack J, Gokhale CS, Hammond L, Hilbe C, Hughes E, Leibo JZ, Lenearts T, Leonard N, Levin S, Madhushani U, McAvoy A, Meylahn JM, Santos FP *in* Proc. Natl. Acad. Sci. U.S.A., 122(25) e2319948121 (2025) \[[doi](https://doi.org/10.1073/pnas.2319948121)\] \[[code](https://github.com/wbarfuss/collective-cooperative-intelligence/tree/main)] \[[zenodo](https://doi.org/10.5281/zenodo.12514230)\] \[[news item UB](https://www.uni-bonn.de/de/neues/108-2025)\] \[[news item UW](https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/neuer-weg-zusammenarbeit-verstehen/)\]
 
