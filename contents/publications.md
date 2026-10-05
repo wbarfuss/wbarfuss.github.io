@@ -3,8 +3,10 @@
 
 ### Working papers and preprints
 
-[**Deterministic dynamics of distributional multi-agent reinforcement learning**](https://doi.org/10.64898/2025.12.22.696014) *by* 
-Bergerot C, Romanczuk P, **Barfuss W** \[[preprint](https://doi.org/10.64898/2025.12.22.696014)\]
+[**The Strategic Dynamics of the Anthropocene: Bridging Social Dilemma Games and Empirical CO2 Emissions with Probabilistic Programming**](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2263/) *by*
+Banihashemi A, Storm H, **Barfuss W** \[[preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2263/egusphere-2026-2263.pdf/)\]
+
+[**Towards modelling the World-Earth System: A Systematic Literature Review of the State of the Art and Ways Forward**](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3862/) *by*  Prawitz H, Schwarz L, **Barfuss W**, Eker S, Halbe J, Donges JF \[[preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3862/egusphere-2026-3862.pdf)\]
 
 [**Dynamics of Multi-Agent Actor-Critic Learning in Stochastic Games: from Multistability and Chaos to Stable Cooperation**](https://arxiv.org/abs/2601.07142) *by* Geng Y, **Barfuss W**, Fu F, Chen X \[[preprint](https://arxiv.org/abs/2601.07142)\]
 
@@ -14,6 +16,9 @@ Bergerot C, Romanczuk P, **Barfuss W** \[[preprint](https://doi.org/10.64898/202
 <div style="height: 40px;"></div>
 
 ### Published Publications
+
+[**Deterministic dynamics of distributional multi-agent reinforcement learning**](https://doi.org/10.1371/journal.pcbi.1014723) *by* 
+Bergerot C, Romanczuk P, **Barfuss W** *in* PLoS Comput Biol 22(9): e1014723 (2026) \[[doi](https://doi.org/10.1371/journal.pcbi.1014723)\]\[[preprint](https://doi.org/10.64898/2025.12.22.696014)\]
 
 [**Learning Together, Better, Faster - On the Timescales of Learning Social Learning Strategies**](https://github.com/wbarfuss/Learning-Together-Better-Faster/blob/main/__MS-Output/Article.pdf)
 *by* **Barfuss W**, Tittel P, Mann RP *accepted in* Proc. R. Soc. A (2026) \[[code](https://github.com/wbarfuss/Learning-Together-Better-Faster)\] \[[zenodo](https://doi.org/10.5281/zenodo.20282129)\]
